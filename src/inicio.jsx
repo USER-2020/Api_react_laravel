@@ -13,13 +13,14 @@ const getAsignaturas = async()=>{
 
 return (
   <div>
-    {
+    {/* {
       asignatura.map(item => (
         <div key={item.id}>
           <Asignatura/>
         </div>
       ))
-    }
+    } */}
+    <h1>Bienvenido al componete tabla</h1>
   </div>
 );
 // export default function Inicio() {
